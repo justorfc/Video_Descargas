@@ -1,0 +1,18 @@
+# Entornos virtuales
+.venv/
+env/
+__pycache__/
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema y VSCode
+*.swp
+*.swo
+.vscode/
+.DS_Store
+
+# Carpeta de salidas del programa
+descargas_youtube/
